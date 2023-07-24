@@ -1,16 +1,11 @@
-# sidhant
 
-A new Flutter project.
+# Sidhant
 
-## Getting Started
+A Simple Portfolio Design.
 
-This project is a starting point for a Flutter application.
+## ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
+![SS1](https://github.com/sidhant947/SidhantApp/assets/88372783/1aee0f71-efe2-48d5-9d01-ab96dcf13b92)
+![SS2](https://github.com/sidhant947/SidhantApp/assets/88372783/f83c9f5b-e880-40be-a9d7-617b47ceda17)
+![Uploading SS3.png…]()
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
