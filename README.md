@@ -5,7 +5,9 @@ A Simple Portfolio Design.
 
 ## ScreenShots
 
-![SS1](https://github.com/sidhant947/SidhantApp/assets/88372783/1aee0f71-efe2-48d5-9d01-ab96dcf13b92)![SS2](https://github.com/sidhant947/SidhantApp/assets/88372783/f83c9f5b-e880-40be-a9d7-617b47ceda17)![SS3](https://github.com/sidhant947/SidhantApp/assets/88372783/5db2d05f-aba4-4791-8062-5e6a2402da8f)
 
+![SS1](https://github.com/sidhant947/SidhantApp/assets/88372783/14a21a5a-0afc-4cf6-894d-3be926a58a90)
+![SS2](https://github.com/sidhant947/SidhantApp/assets/88372783/93036d9a-79a4-4e86-8101-8b068252064d)
+![SS3](https://github.com/sidhant947/SidhantApp/assets/88372783/164a38bc-2fc6-4bc6-9f87-9245a19597ee)
 
 
